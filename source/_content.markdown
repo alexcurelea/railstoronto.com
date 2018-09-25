@@ -43,6 +43,7 @@ order please).
 * [DevBBQ Inc](http://www.devbbq.com) - Strategic development for products and systems
 * [Functional Imperative](http://functionalimperative.com)
 * [Metaware Labs Inc](http://metawarelabs.com)
+* [MobileFolk](http://www.mobilefolk.com)
 * [OK GROW!](http://okgrow.com) - Expert web and mobile app development
 * [OnGraph](http://www.ongraph.com) - Bespoke high quality Rails development.
 * [Pivotal Labs](http://www.pivotallabs.com)
